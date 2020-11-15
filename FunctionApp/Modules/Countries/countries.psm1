@@ -27,7 +27,7 @@ function Get-RandomCountry {
     process
     {
         $allCountries = Invoke-RestMethod -Uri "https://restcountries.eu/rest/v2/all"
-        $allCountries | Get-Random 
+        Get-Random -InputObject $allCountries 
     }
 
     end {}
