@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Grenada",
+    "CapitalCity": "St. George's",
+    "Region": "Americas",
+    "SubRegion": "Caribbean"
+  },
+  {
+    "Name": "Somalia",
+    "CapitalCity": "Mogadishu",
+    "Region": "Africa",
+    "SubRegion": "Eastern Africa"
+  },
+  {
+    "Name": "Iraq",
+    "CapitalCity": "Baghdad",
+    "Region": "Asia",
+    "SubRegion": "Western Asia"
+  },
+  {
+    "Name": "Seychelles",
+    "CapitalCity": "Victoria",
+    "Region": "Africa",
+    "SubRegion": "Eastern Africa"
+  },
+  {
+    "Name": "Northern Mariana Islands",
+    "CapitalCity": "Saipan",
+    "Region": "Oceania",
+    "SubRegion": "Micronesia"
+  }
+]

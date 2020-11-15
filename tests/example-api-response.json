@@ -1,0 +1,411 @@
+[
+  {
+    "name": "Grenada",
+    "topLevelDomain": [
+      ".gd"
+    ],
+    "alpha2Code": "GD",
+    "alpha3Code": "GRD",
+    "callingCodes": [
+      "1473"
+    ],
+    "capital": "St. George's",
+    "altSpellings": [
+      "GD"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 103328,
+    "latlng": [
+      12.11666666,
+      -61.66666666
+    ],
+    "demonym": "Grenadian",
+    "area": 344.0,
+    "gini": null,
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "borders": [],
+    "nativeName": "Grenada",
+    "numericCode": "308",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "translations": {
+      "de": "Grenada",
+      "es": "Grenada",
+      "fr": "Grenade",
+      "ja": "グレナダ",
+      "it": "Grenada",
+      "br": "Granada",
+      "pt": "Granada",
+      "nl": "Grenada",
+      "hr": "Grenada",
+      "fa": "گرنادا"
+    },
+    "flag": "https://restcountries.eu/data/grd.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "CARICOM",
+        "name": "Caribbean Community",
+        "otherAcronyms": [],
+        "otherNames": [
+          "Comunidad del Caribe",
+          "Communauté Caribéenne",
+          "Caribische Gemeenschap"
+        ]
+      }
+    ],
+    "cioc": "GRN"
+  },
+  {
+    "name": "Somalia",
+    "topLevelDomain": [
+      ".so"
+    ],
+    "alpha2Code": "SO",
+    "alpha3Code": "SOM",
+    "callingCodes": [
+      "252"
+    ],
+    "capital": "Mogadishu",
+    "altSpellings": [
+      "SO",
+      "aṣ-Ṣūmāl",
+      "Federal Republic of Somalia",
+      "Jamhuuriyadda Federaalka Soomaaliya",
+      "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 11079000,
+    "latlng": [
+      10.0,
+      49.0
+    ],
+    "demonym": "Somali",
+    "area": 637657.0,
+    "gini": null,
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "borders": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ],
+    "nativeName": "Soomaaliya",
+    "numericCode": "706",
+    "currencies": [
+      {
+        "code": "SOS",
+        "name": "Somali shilling",
+        "symbol": "Sh"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "so",
+        "iso639_2": "som",
+        "name": "Somali",
+        "nativeName": "Soomaaliga"
+      },
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "translations": {
+      "de": "Somalia",
+      "es": "Somalia",
+      "fr": "Somalie",
+      "ja": "ソマリア",
+      "it": "Somalia",
+      "br": "Somália",
+      "pt": "Somália",
+      "nl": "Somalië",
+      "hr": "Somalija",
+      "fa": "سومالی"
+    },
+    "flag": "https://restcountries.eu/data/som.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "AU",
+        "name": "African Union",
+        "otherAcronyms": [],
+        "otherNames": [
+          "الاتحاد الأفريقي",
+          "Union africaine",
+          "União Africana",
+          "Unión Africana",
+          "Umoja wa Afrika"
+        ]
+      },
+      {
+        "acronym": "AL",
+        "name": "Arab League",
+        "otherAcronyms": [],
+        "otherNames": [
+          "جامعة الدول العربية",
+          "Jāmiʻat ad-Duwal al-ʻArabīyah",
+          "League of Arab States"
+        ]
+      }
+    ],
+    "cioc": "SOM"
+  },
+  {
+    "name": "Iraq",
+    "topLevelDomain": [
+      ".iq"
+    ],
+    "alpha2Code": "IQ",
+    "alpha3Code": "IRQ",
+    "callingCodes": [
+      "964"
+    ],
+    "capital": "Baghdad",
+    "altSpellings": [
+      "IQ",
+      "Republic of Iraq",
+      "Jumhūriyyat al-‘Irāq"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 37883543,
+    "latlng": [
+      33.0,
+      44.0
+    ],
+    "demonym": "Iraqi",
+    "area": 438317.0,
+    "gini": 30.9,
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "borders": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ],
+    "nativeName": "العراق",
+    "numericCode": "368",
+    "currencies": [
+      {
+        "code": "IQD",
+        "name": "Iraqi dinar",
+        "symbol": "ع.د"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      {
+        "iso639_1": "ku",
+        "iso639_2": "kur",
+        "name": "Kurdish",
+        "nativeName": "Kurdî"
+      }
+    ],
+    "translations": {
+      "de": "Irak",
+      "es": "Irak",
+      "fr": "Irak",
+      "ja": "イラク",
+      "it": "Iraq",
+      "br": "Iraque",
+      "pt": "Iraque",
+      "nl": "Irak",
+      "hr": "Irak",
+      "fa": "عراق"
+    },
+    "flag": "https://restcountries.eu/data/irq.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "AL",
+        "name": "Arab League",
+        "otherAcronyms": [],
+        "otherNames": [
+          "جامعة الدول العربية",
+          "Jāmiʻat ad-Duwal al-ʻArabīyah",
+          "League of Arab States"
+        ]
+      }
+    ],
+    "cioc": "IRQ"
+  },
+  {
+    "name": "Seychelles",
+    "topLevelDomain": [
+      ".sc"
+    ],
+    "alpha2Code": "SC",
+    "alpha3Code": "SYC",
+    "callingCodes": [
+      "248"
+    ],
+    "capital": "Victoria",
+    "altSpellings": [
+      "SC",
+      "Republic of Seychelles",
+      "Repiblik Sesel",
+      "République des Seychelles"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 91400,
+    "latlng": [
+      -4.58333333,
+      55.66666666
+    ],
+    "demonym": "Seychellois",
+    "area": 452.0,
+    "gini": 65.8,
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "borders": [],
+    "nativeName": "Seychelles",
+    "numericCode": "690",
+    "currencies": [
+      {
+        "code": "SCR",
+        "name": "Seychellois rupee",
+        "symbol": "₨"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "translations": {
+      "de": "Seychellen",
+      "es": "Seychelles",
+      "fr": "Seychelles",
+      "ja": "セーシェル",
+      "it": "Seychelles",
+      "br": "Seicheles",
+      "pt": "Seicheles",
+      "nl": "Seychellen",
+      "hr": "Sejšeli",
+      "fa": "سیشل"
+    },
+    "flag": "https://restcountries.eu/data/syc.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "AU",
+        "name": "African Union",
+        "otherAcronyms": [],
+        "otherNames": [
+          "الاتحاد الأفريقي",
+          "Union africaine",
+          "União Africana",
+          "Unión Africana",
+          "Umoja wa Afrika"
+        ]
+      }
+    ],
+    "cioc": "SEY"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "topLevelDomain": [
+      ".mp"
+    ],
+    "alpha2Code": "MP",
+    "alpha3Code": "MNP",
+    "callingCodes": [
+      "1670"
+    ],
+    "capital": "Saipan",
+    "altSpellings": [
+      "MP",
+      "Commonwealth of the Northern Mariana Islands",
+      "Sankattan Siha Na Islas Mariånas"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 56940,
+    "latlng": [
+      15.2,
+      145.75
+    ],
+    "demonym": "American",
+    "area": 464.0,
+    "gini": null,
+    "timezones": [
+      "UTC+10:00"
+    ],
+    "borders": [],
+    "nativeName": "Northern Mariana Islands",
+    "numericCode": "580",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "ch",
+        "iso639_2": "cha",
+        "name": "Chamorro",
+        "nativeName": "Chamoru"
+      }
+    ],
+    "translations": {
+      "de": "Nördliche Marianen",
+      "es": "Islas Marianas del Norte",
+      "fr": "Îles Mariannes du Nord",
+      "ja": "北マリアナ諸島",
+      "it": "Isole Marianne Settentrionali",
+      "br": "Ilhas Marianas",
+      "pt": "Ilhas Marianas",
+      "nl": "Noordelijke Marianeneilanden",
+      "hr": "Sjevernomarijanski otoci",
+      "fa": "جزایر ماریانای شمالی"
+    },
+    "flag": "https://restcountries.eu/data/mnp.svg",
+    "regionalBlocs": [],
+    "cioc": ""
+  }
+]
