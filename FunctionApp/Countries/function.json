@@ -1,6 +1,4 @@
 {
-  "scriptFile": "../lib/azure-functions.psm1",
-  "entryPoint": "Invoke-HttpTrigger1",
   "bindings": [
     {
       "authLevel": "anonymous",
