@@ -6,25 +6,16 @@ param($Request, $TriggerMetadata)
 if ($Request.Query.NameSearch)
 {
     # query by country name
-    $result = Invoke-RestMethod -Uri "https://restcountries.eu/rest/v2/name/$($Request.Query.NameSearch)"
+    $response = Search-CountryName -SearchTerm $Request.Query.NameSearch
 }
 else
 {
     # get a random country
-    $allCountries = Invoke-RestMethod -Uri "https://restcountries.eu/rest/v2/all"
-    $result = $allCountries | Get-Random 
+    $response = Get-RandomCountry
 }
 
-# create function output
-$output = foreach ($country in $result)
-{
-    [PSCustomObject]@{
-        Name = $country.name
-        CapitalCity = $country.capital
-        Region = $country.region
-        SubRegion = $country.subregion
-    }
-}
+# create out output
+$output = $response | New-FunctionOutput
 
 # return the output
 Push-OutputBinding -Name Response -Value ([HttpResponseContext]@{
