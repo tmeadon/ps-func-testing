@@ -39,7 +39,7 @@ function New-FunctionOutput {
     (
         # object containing output from restcountries api
         [Parameter(Mandatory, ValueFromPipeline)]
-        [pscustomobject]
+        [pscustomobject[]]
         $CountryResponse
     )
 
@@ -47,11 +47,14 @@ function New-FunctionOutput {
 
     process
     {
-        [PSCustomObject]@{
-            Name = $CountryResponse.name
-            CapitalCity = $CountryResponse.capital
-            Region = $CountryResponse.region
-            SubRegion = $CountryResponse.subregion
+        foreach ($item in $CountryResponse)
+        {
+            [PSCustomObject]@{
+                Name = $item.name
+                CapitalCity = $item.capital
+                Region = $item.region
+                SubRegion = $item.subregion
+            }
         }
     }
 
